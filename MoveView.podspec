@@ -10,7 +10,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "MoveView"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "A MoveView"
   s.homepage     = "https://github.com/zwlzlx/MoveView"
   s.license      = "MIT"
