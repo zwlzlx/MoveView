@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   s.author             = { "zwlzlx" => "zwlzlx@sina.com" }
   s.platform     = :ios,"5.0"
   s.source       = { :git => "https://github.com/zwlzlx/MoveView.git", :tag => "#{s.version}" }
-  s.source_files  = "MoveView/MoveView/*.{h,m}"
+  s.source_files  = "Move/*.{h,m}"
   s.frameworks = "Foundation", "UIKit"
   s.requires_arc = true
 end
